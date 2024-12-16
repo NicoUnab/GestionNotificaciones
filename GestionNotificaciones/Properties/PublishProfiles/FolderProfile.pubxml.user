@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\WS\GestionNotificaciones</_PublishTargetUrl>
+    <History>True|2024-12-14T21:46:36.2204349Z||;True|2024-12-14T18:45:20.6298410-03:00||;True|2024-12-14T18:11:02.6109893-03:00||;True|2024-12-14T16:45:59.1031454-03:00||;True|2024-12-14T16:43:45.3973583-03:00||;True|2024-12-14T16:42:15.7736228-03:00||;True|2024-12-14T15:41:43.0196703-03:00||;False|2024-12-14T15:39:36.1723404-03:00||;True|2024-12-14T01:37:20.3081746-03:00||;True|2024-12-11T14:08:28.2704933-03:00||;True|2024-12-11T14:06:46.2205199-03:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
